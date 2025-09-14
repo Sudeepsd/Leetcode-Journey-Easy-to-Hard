@@ -14,5 +14,5 @@ public:
     }
 };
 
-// Time Complexity: O(log(x)), proportional to number of digits in x
+// Time Complexity: O(log n), number of digits in n
 // Space Complexity: O(1)       
