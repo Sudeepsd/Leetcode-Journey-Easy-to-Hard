@@ -16,4 +16,4 @@ public:
 };
 
 // Time Complexity: O(n), number of words
-// Space Complexity: O(n), for istringstream object
+// Space Complexity: O(1)
